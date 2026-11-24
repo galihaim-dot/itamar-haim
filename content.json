@@ -1,0 +1,73 @@
+{
+  "site_url": null,
+  "preview_url": "https://galihaim-dot.github.io/itamar-haim/",
+  "contact": {
+    "whatsapp": null,
+    "email": null,
+    "linkedin": null
+  },
+  "he": {
+    "name": "איתמר חיים",
+    "title": "איתמר חיים · יזם ומנהל נכסים",
+    "description": "פיתוח נדל\"ן מלונאי ומגורים בתל אביב, מהתכנון ועד הביצוע.",
+    "nav_projects": "פרויקטים",
+    "nav_lang": "EN",
+    "cta": "שליחת הודעה",
+    "eyebrow": "יזם ומנהל נכסים · תל אביב",
+    "h1_line1": "מהתכנון",
+    "h1_line2": "ועד הביצוע",
+    "lead": "פיתוח נדל\"ן מלונאי ומגורים בתל אביב. מלווה כל פרויקט מהשלב הראשון ועד המסירה.",
+    "projects_label": "פרויקטים",
+    "projects_aside": "TEL AVIV",
+    "footer_line": "משקיעים שמחפשים פיתוח או קידום תכנון"
+  },
+  "en": {
+    "name": "Itamar Haim",
+    "title": "Itamar Haim · Real Estate Developer & Asset Manager",
+    "description": "Hotel and residential development in Tel Aviv, from planning through construction.",
+    "nav_projects": "Projects",
+    "nav_lang": "עב",
+    "cta": "Send a message",
+    "eyebrow": "Real Estate Developer & Asset Manager · Tel Aviv",
+    "h1_line1": "From planning",
+    "h1_line2": "through construction",
+    "lead": "I develop hotel and residential real estate in Tel Aviv, and stay with each project from the first stage through to handover.",
+    "projects_label": "Projects",
+    "projects_aside": "TEL AVIV",
+    "footer_line": "Investors looking for development, or for help moving a plan through approvals"
+  },
+  "projects": [
+    {
+      "id": "fabric",
+      "status_key": "done",
+      "field_kind": "num",
+      "image": null,
+      "he": {"title": "מלון פבריק, נחלת בנימין 28", "desc": "מלון בוטיק במבנה של מפעל ישן", "status": "הושלם", "field": "28"},
+      "en": {"title": "Fabric Hotel, 28 Nahalat Binyamin", "desc": "Boutique hotel in a former factory building", "status": "Completed", "field": "28"}
+    },
+    {
+      "id": "ness-ziona",
+      "status_key": "done",
+      "field_kind": "word",
+      "image": null,
+      "he": {"title": "דירות יוקרה, רחוב נס ציונה", "desc": "על קו החוף של תל אביב", "status": "הושלם", "field": "נס ציונה"},
+      "en": {"title": "Luxury apartments, Ness Ziona Street", "desc": "On the Tel Aviv shoreline", "status": "Completed", "field": "Ness Ziona"}
+    },
+    {
+      "id": "rothschild",
+      "status_key": "next",
+      "field_kind": "word",
+      "image": null,
+      "he": {"title": "מלון, רוטשילד פינת נחלת בנימין", "desc": "התקבל היתר בנייה", "status": "לקראת ביצוע", "field": "רוטשילד"},
+      "en": {"title": "Hotel, Rothschild Boulevard at Nahalat Binyamin", "desc": "Building permit granted", "status": "Pre-construction", "field": "Rothschild"}
+    },
+    {
+      "id": "allenby",
+      "status_key": "next",
+      "field_kind": "num",
+      "image": null,
+      "he": {"title": "אלנבי 87 ולינקולן", "desc": "הסבת משרדים לדירות מגורים", "status": "בתכנון", "field": "87"},
+      "en": {"title": "87 Allenby and Lincoln Street", "desc": "Office-to-residential conversion", "status": "In planning", "field": "87"}
+    }
+  ]
+}
